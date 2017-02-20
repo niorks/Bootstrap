@@ -41,7 +41,7 @@ Je vous fournis un dossier de base “activité partie 2” :</P>
 
 # Dossier
 
-<p>Vous pouvez le télécharger ici.<p>
+<p>Vous pouvez le télécharger ici.</p>
 
 
 
