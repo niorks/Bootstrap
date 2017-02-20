@@ -45,13 +45,13 @@ Je vous fournis un dossier de base “activité partie 2” :</P>
 
 
 
-Dans ce dossier vous avez :
+# Dans ce dossier vous avez :
 
 à la racine un fichier index.html qui contient la structure de base de la page,
 dans le dossier assets/img les 4 images nécessaires pour la page.
 Évidement le code dans le fichier index.html ne comporte aucun élément pour la mise en page, c’est à vous de l’ajouter. Selon le fichier de départ, les éléments de la page se retrouvent empilés en suivant le flux.
 
-Le style de base est présent pour :
+# Le style de base est présent pour :
 
 la police utilisée,
 la couleur du fond,
@@ -96,7 +96,6 @@ l’aspect du logo selon les supports (il doit disparaître sur les smartphones)
 la répartition des images selon les supports,
 l’aspect des boutons en bas de page et leur centrage.
 Bon courage !
-
 
 
 # Send your work
