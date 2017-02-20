@@ -1,45 +1,35 @@
 # Votre mission
 
-<p>Votre mission est de créer une page web à partir du rendu attendu que vous pourrez trouver ci-dessous.</P>
+Votre mission est de créer une page web à partir du rendu attendu que vous pourrez trouver ci-dessous.
 
-<p>NB : Les couleurs ainsi que la police utilisées sont déjà fixées dans le code CSS fourni, vous pouvez les modifier si vous voulez créer une autre ambiance colorée.</P>
+NB : Les couleurs ainsi que la police utilisées sont déjà fixées dans le code CSS fourni, vous pouvez les modifier si vous voulez créer une autre ambiance colorée.
 
-<p>Sur grand et moyen écran, on désire l'aspect suivant :</P>
+Sur grand et moyen écran, on désire l'aspect suivant :
 
-<p>Mise en page sur grand et moyen écran</P>
+Mise en page sur grand et moyen écran
 
-<p>une entête avec un logo à gauche et le titre centré,
+une entête avec un logo à gauche et le titre centré,
 un corps avec 3 images, celles-ci séparées par une petite marge, et aucune marge sur les bords de la fenêtre,
-un pied de page avec 5 boutons centrés pour les liens sociaux.</P>
+un pied de page avec 5 boutons centrés pour les liens sociaux.
 
 
 # Sur tablette, on désire l'aspect suivant :
 
-<p><h2>Mise en page sur tablette</h2></p>
+Mise en page sur tablette
 
-<p>une entête avec le logo à gauche et le titre centré,
+une entête avec le logo à gauche et le titre centré,
 un corps avec 3 images, celles-ci séparées par une petite marge, cette fois les deux petites images doivent venir sous la grande, et aucune marge sur les côtés,
-un pied de page avec 5 boutons centrés pour les liens sociaux.</P>
+un pied de page avec 5 boutons centrés pour les liens sociaux.
 
 
 #Sur smartphone, on désire l'aspect suivant :
 
-<p>Mise en page sur smartphone</P>
+Mise en page sur smartphone
 
-<p>une entête avec le titre centré mais sans le logo,
+une entête avec le titre centré mais sans le logo,
 un corps avec les 3 images empilées, celles-ci séparées par une petite marge, avec également une petite marge par rapport au bord de l’écran,
-<p>un pied de page avec 5 boutons centrés pour les liens sociaux.</P>
-<p>Vous devez évidemment utiliser au maximum Bootstrap pour cette réalisation et établir des règles de style particulières lorsque vous atteignez les limites des classes de Bootstrap.</P>
-
-
-
-# Dossier de base
-Je vous fournis un dossier de base “activité partie 2” :</P>
-
-# Dossier
-
-<p>Vous pouvez le télécharger ici.</p>
-
+un pied de page avec 5 boutons centrés pour les liens sociaux.
+Vous devez évidemment utiliser au maximum Bootstrap pour cette réalisation et établir des règles de style particulières lorsque vous atteignez les limites des classes de Bootstrap.
 
 
 # Dans ce dossier vous avez :
@@ -84,14 +74,14 @@ La police choisie pour la page est issue des Google Fonts, il s’agit de la pol
 
 
 # Fichiers à renvoyer
-<p>Vous devez envoyer un fichier zip reprenant l’ensemble de ce qui a été fourni au départ mais avec le fichier index.html complété pour la mise en page. Le style ajouté se trouvera dans la balise <style> de la page pour simplifier.</p>
+Vous devez envoyer un fichier zip reprenant l’ensemble de ce qui a été fourni au départ mais avec le fichier index.html complété pour la mise en page. Le style ajouté se trouvera dans la balise <style> de la page pour simplifier.
 
-<p>Les critères d'évaluation vont porter sur :</p>
+Les critères d'évaluation vont porter sur :
 
-<p>l’aspect du bandeau de titre (couleur de fond),
+l’aspect du bandeau de titre (couleur de fond),
 l’aspect du logo selon les supports (il doit disparaître sur les smartphones),
 la répartition des images selon les supports,
-l’aspect des boutons en bas de page et leur centrage.</p>
+l’aspect des boutons en bas de page et leur centrage.
 Bon courage !
 
 
