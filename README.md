@@ -1,2 +1,2 @@
 # Bootstrap
-exercice sur Bootstrap <a href='openclassroom.com'>openclassroom</a>
+exercice sur Bootstrap <a href='https://openclassrooms.com/courses/prenez-en-main-bootstrap'>openclassroom</a>
