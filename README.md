@@ -1,7 +1,7 @@
 # Bootstrap
 exercice sur Bootstrap <a href='https://openclassrooms.com/courses/prenez-en-main-bootstrap'>openclassroom</a>
 
-<p>Votre mission</P>
+# Votre mission
 
 <p>Votre mission est de créer une page web à partir du rendu attendu que vous pourrez trouver ci-dessous.</P>
 
