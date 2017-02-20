@@ -87,14 +87,14 @@ La police choisie pour la page est issue des Google Fonts, il s’agit de la pol
 
 
 # Fichiers à renvoyer
-Vous devez envoyer un fichier zip reprenant l’ensemble de ce qui a été fourni au départ mais avec le fichier index.html complété pour la mise en page. Le style ajouté se trouvera dans la balise <style> de la page pour simplifier.
+<p>Vous devez envoyer un fichier zip reprenant l’ensemble de ce qui a été fourni au départ mais avec le fichier index.html complété pour la mise en page. Le style ajouté se trouvera dans la balise <style> de la page pour simplifier.</p>
 
-Les critères d'évaluation vont porter sur :
+<p>Les critères d'évaluation vont porter sur :</p>
 
-l’aspect du bandeau de titre (couleur de fond),
+<p>l’aspect du bandeau de titre (couleur de fond),
 l’aspect du logo selon les supports (il doit disparaître sur les smartphones),
 la répartition des images selon les supports,
-l’aspect des boutons en bas de page et leur centrage.
+l’aspect des boutons en bas de page et leur centrage.</p>
 Bon courage !
 
 
